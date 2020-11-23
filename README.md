@@ -39,7 +39,6 @@ Google Chrome: [Chrome](https://www.google.com.br/chrome/)
 8. Clicar no botão "Fechar"
 9. Fechar o browser
 
-
 **Preparação do ambiente - Passo a Passo:**
  1. Baixe e instale o Eclipse;
  2. Baixe e instale o Java: JRE e JDK;
